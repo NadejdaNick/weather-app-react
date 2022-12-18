@@ -8,7 +8,16 @@ export default function App() {
     <div className="container">
       <Weather />
       <footer>
-        This project is coded by Nadya Khokhlowa
+      This project was coded by Nadya Khokhlowa and is{" "}
+          <a
+            href="https://github.com/NadejdaNick/weather-app-react"
+            target="_blank"
+            rel="noopener noreferrer"            
+          >
+            open-sourced on GitHub
+          </a>
+          and hosted on Netlify
+          
       </footer>
       </div>
       </div>
